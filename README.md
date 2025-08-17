@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>🎮 Gamics - Gaming Website</h1>
-  <p>A modern, stylish, and responsive gaming website built with HTML, CSS, and JavaScript.</p>
+  <p>A modern, stylish, and responsive gaming website built with HTML, CSS.</p>
   <img src="Gaming%20Website/images/screenshot.jpg" alt="Gamics Gaming Website Screenshot" width="100%"/>
 </div>
 
